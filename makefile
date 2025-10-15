@@ -1,1 +1,2 @@
-gcc -o checkers checkersgame.c
+checkers:
+	gcc -o checkers checkersgame.c
